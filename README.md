@@ -1,0 +1,2 @@
+# DummyPreview
+Unity/uGUI アセバン等のビルドに含めたくない画像をPreviewしてUI位置合わせできるようにする
