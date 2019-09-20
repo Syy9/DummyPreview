@@ -58,6 +58,7 @@ namespace Syy.Logics
                     var rect = _dummyImage.transform as RectTransform;
                     rect.SetParent(transform);
                     rect.localPosition = Vector3.zero;
+                    rect.localScale = Vector3.one;
                     rect.anchorMin = Vector2.zero;
                     rect.anchorMax = Vector2.one;
                     rect.offsetMin = Vector2.zero;
